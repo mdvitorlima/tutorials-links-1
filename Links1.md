@@ -7,3 +7,5 @@ https://www.youtube.com/@HamedFathiTech
 https://github.com/HamedFathi?tab=repositories
 
 https://www.geeky-gadgets.com/vscode-ollama-install/
+
+https://github.com/microsoft/fara
