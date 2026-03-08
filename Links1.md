@@ -22,3 +22,5 @@ https://code.visualstudio.com/docs/copilot/customization/agent-skills
 https://visualstudiomagazine.com/articles/2026/01/11/hand-on-with-new-github-copilot-agent-skills-in-vs-code.aspx
 
 https://www.youtube.com/watch?v=XZYzW3z-C1w
+
+https://github.com/github/awesome-copilot/blob/main/agents/api-architect.agent.md
