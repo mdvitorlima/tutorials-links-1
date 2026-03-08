@@ -1,1 +1,6 @@
 
+1) Check if git is installed:
+git --version
+
+*Use Git Bash
+
