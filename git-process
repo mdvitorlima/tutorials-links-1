@@ -4,3 +4,23 @@ git --version
 
 *Use Git Bash
 
+Retrieve a full copy of the repository from GitHub:
+git clone [URLCópia]
+
+List All branchs:
+git branch
+
+Criar novo branch:
+git branch [newbranch]
+
+Set new branch (Checkout) to current branch:
+git checkout [newbranch]
+
+
+*COMMIT PROCESS:
+
+-git status (optional) -> Check the status of working tree
+
+-git add [FILE] -> Move the file from the working tree to the staging area (git add * to stage all files)
+
+- git commit -m "My first commit" -> 
