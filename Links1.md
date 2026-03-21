@@ -24,3 +24,5 @@ https://visualstudiomagazine.com/articles/2026/01/11/hand-on-with-new-github-cop
 https://www.youtube.com/watch?v=XZYzW3z-C1w
 
 https://github.com/github/awesome-copilot/blob/main/agents/api-architect.agent.md
+
+https://www.apexhours.com/how-to-set-up-claude-code-a-step-by-step-guide/
