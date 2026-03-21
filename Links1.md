@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=XZYzW3z-C1w
 https://github.com/github/awesome-copilot/blob/main/agents/api-architect.agent.md
 
 https://www.apexhours.com/how-to-set-up-claude-code-a-step-by-step-guide/
+
+https://trailhead.salesforce.com/pt-BR/content/learn/modules/javascript-dev-i-cert-prep-variables-collections-functions-classes
+https://trailhead.salesforce.com/pt-BR/users/strailhead/trailmixes/prepare-for-your-salesforce-javascript-developer-i-credential
